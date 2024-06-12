@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact ShaquilleAJohnson@outlook.com.
 
 Thank you for exploring my cybersecurity research. Your feedback and contributions are highly valued!
